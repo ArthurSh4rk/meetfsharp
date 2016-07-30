@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "meetfsharp", "meetfsharp\meetfsharp.fsproj", "{DAD05AF0-425C-4C20-A6AA-612B316E723C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAD05AF0-425C-4C20-A6AA-612B316E723C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD05AF0-425C-4C20-A6AA-612B316E723C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD05AF0-425C-4C20-A6AA-612B316E723C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD05AF0-425C-4C20-A6AA-612B316E723C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
